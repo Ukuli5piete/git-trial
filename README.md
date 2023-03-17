@@ -1,3 +1,3 @@
 # demonstration
 
-descriptions.
+descriptions fo the tutorial.
